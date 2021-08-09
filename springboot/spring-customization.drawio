@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T13:14:44.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="14.9.5" etag="ak-yviHl_uGB72PpEkIF" type="github"><diagram id="TAlHZ9jCKEuLrr5Z6eX6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-09T13:28:25.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="gonkSrHJStyL8Hd-pwaH" version="14.9.5" type="github">
+  <diagram id="TAlHZ9jCKEuLrr5Z6eX6" name="Page-1">
+    <mxGraphModel dx="686" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ajrZJquJZkCXyteG9rc1-15" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1、@Bean替换默认组件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2、修改配置文件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;3、自定义配置类&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;4、实现WebMvcConfigurer定制web功能&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;5、@EnableWebMvc+WebConfiguration全面接管&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=right;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajrZJquJZkCXyteG9rc1-1" target="ajrZJquJZkCXyteG9rc1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-1" value="场景starter" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajrZJquJZkCXyteG9rc1-2" target="ajrZJquJZkCXyteG9rc1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-2" value="xxxAutoConfiguration" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajrZJquJZkCXyteG9rc1-4" target="ajrZJquJZkCXyteG9rc1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-4" value="导入xxx组件" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajrZJquJZkCXyteG9rc1-8" target="ajrZJquJZkCXyteG9rc1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-8" value="绑定xxxProperties" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="344" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-10" value="绑定配置文件项" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="349" y="350" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-13" value="&lt;h1&gt;SpringBoot定制原理套路&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajrZJquJZkCXyteG9rc1-14" value="&lt;h2&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;定制化常见的方式&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=50;glass=1;shadow=0;sketch=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
