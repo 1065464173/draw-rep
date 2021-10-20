@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T05:33:45.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="uaqL3b-2sL4iqC7yQRd-" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T05:37:11.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="j58VPHAfq_ah3uuniMsW" version="15.5.6" type="github">
   <diagram id="p2mcce0Kjvg5b7Rvwxf0" name="Page-1">
     <mxGraphModel dx="1189" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,26 +98,24 @@
         <mxCell id="iS5uBh1tfy5m56SXXApQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="iS5uBh1tfy5m56SXXApQ-35" target="iS5uBh1tfy5m56SXXApQ-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iS5uBh1tfy5m56SXXApQ-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;分布式缓存&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="418" y="71" width="29" height="96" as="geometry" />
-        </mxCell>
         <mxCell id="iS5uBh1tfy5m56SXXApQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="iS5uBh1tfy5m56SXXApQ-4" target="iS5uBh1tfy5m56SXXApQ-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l7wtGUj1CSYgLKB1h6vu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="iS5uBh1tfy5m56SXXApQ-38" target="iS5uBh1tfy5m56SXXApQ-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="l7wtGUj1CSYgLKB1h6vu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hyd-ZnaaIDE31HTCLdw4-5" target="iS5uBh1tfy5m56SXXApQ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="218.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iS5uBh1tfy5m56SXXApQ-38" value="&lt;font style=&quot;font-size: 14px&quot;&gt;分布式搜索&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="418" y="184" width="29" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="iS5uBh1tfy5m56SXXApQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="iS5uBh1tfy5m56SXXApQ-4" target="iS5uBh1tfy5m56SXXApQ-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iS5uBh1tfy5m56SXXApQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iS5uBh1tfy5m56SXXApQ-4" target="hyd-ZnaaIDE31HTCLdw4-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="218.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l7wtGUj1CSYgLKB1h6vu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="iS5uBh1tfy5m56SXXApQ-41" target="iS5uBh1tfy5m56SXXApQ-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iS5uBh1tfy5m56SXXApQ-41" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="497" y="84.5" width="70" height="69" as="geometry" />
+          <mxGeometry x="481" y="39.75" width="70" height="69" as="geometry" />
         </mxCell>
         <mxCell id="l7wtGUj1CSYgLKB1h6vu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="iS5uBh1tfy5m56SXXApQ-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -192,6 +190,24 @@
         </mxCell>
         <mxCell id="l7wtGUj1CSYgLKB1h6vu-38" value="配置中心" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="l7wtGUj1CSYgLKB1h6vu-39" vertex="1">
           <mxGeometry x="204.16" y="11.5" width="87" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hyd-ZnaaIDE31HTCLdw4-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414.5" y="15.5" width="37.5" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iS5uBh1tfy5m56SXXApQ-35" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="hyd-ZnaaIDE31HTCLdw4-3" vertex="1">
+          <mxGeometry width="37.5" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyd-ZnaaIDE31HTCLdw4-1" value="分布式缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=0;fontSize=14;" vertex="1" parent="hyd-ZnaaIDE31HTCLdw4-3">
+          <mxGeometry x="11" width="14" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="hyd-ZnaaIDE31HTCLdw4-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414.5" y="139" width="37.5" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyd-ZnaaIDE31HTCLdw4-5" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="hyd-ZnaaIDE31HTCLdw4-4">
+          <mxGeometry width="37.5" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hyd-ZnaaIDE31HTCLdw4-6" value="分布式搜索" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=0;fontSize=14;" vertex="1" parent="hyd-ZnaaIDE31HTCLdw4-4">
+          <mxGeometry x="11" width="14" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
